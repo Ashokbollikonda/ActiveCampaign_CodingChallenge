@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Author : Ashok Bollikonda
 
-Api source : https://lamppoststudios.api-us1.com/api/3
-Dependencies : React , axios 
-Testing Framework : Jest
+- Api source : https://lamppoststudios.api-us1.com/api/3
+- Dependencies : React , axios 
+- Testing Framework : Jest
 
 ### Assumptions 
 
